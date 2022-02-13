@@ -13,7 +13,7 @@ Below are the concept and tech stack required to be a DevOps Engineer:
     **GitHub **
     **BitBucket**
     **DevOps Principles**
-    **SRE Principles
+    **SRE Principles**
     **Unix / Linux Commands**
     **Unix Shell Scripting**
     **CI/CD - Jenkins**
